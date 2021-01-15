@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
     var label = "";
     var name = "";
     var param = "";
+    var asw = ""
     var f = "";
 
     s.forEach {
