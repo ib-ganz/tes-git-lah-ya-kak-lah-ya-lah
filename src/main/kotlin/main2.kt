@@ -3,6 +3,7 @@ fun main(args: Array<String>) {
     val s = s.split("\n")
     var l = mutableListOf("")
 
+    var t = ""
     var label = "";
     var name = "";
     var param = "";
